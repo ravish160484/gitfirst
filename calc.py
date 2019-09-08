@@ -6,6 +6,7 @@ def multiply(x,y):
     pass
 def divide(x,y):
     return x/y
-def square(x,y):
-    pass
+def square
+pass
+made changes in dev branch for rebase testing
 
